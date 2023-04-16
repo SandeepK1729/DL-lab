@@ -19,15 +19,15 @@ Print the network and its nodes
 
 #### Week 4: Consider the Week 3 network and do the following
 - Change the activation of the network from sigmoid to tanh and observe the performance of the network
-- Compute the activation of every node in first hidden node
-- Compute the activation of every node in second hidden node
-- Compute the activation of every node in third hidden node
+- Compute the activation of every node in first hidden layer
+- Compute the activation of every node in second hidden layer
+- Compute the activation of every node in third hidden layer
 
-#### Week 5: Consider the Week 3 network and do the following
+#### Week 5: Consider the Week 4 network and do the following
 - Change the activation of the network from tanh to relu and observe the performance of the network
-- Compute the activation of every node in first hidden node
-- Compute the activation of every node in second hidden node
-- Compute the activation of every node in third hidden node
+- Compute the activation of every node in first hidden layer
+- Compute the activation of every node in second hidden layer
+- Compute the activation of every node in third hidden layer
 
 #### Week 6: 
 * Construct convolution neural network and perform the classification using MNIST dataset using K10 cross validation.
